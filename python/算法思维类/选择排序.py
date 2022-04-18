@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 # author:landmine time:2022/3/31
+# 时间复杂度 O(n^2)
 def findSmalllest(arr):
     # 找出数组中最小元素
     smalllest = arr[0]  #存储最小的值

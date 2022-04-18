@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 # author:landmine time:2022/3/22
+# 时间复杂度  O(log n)
 def binary_search(list, item):  #给定一个有序数组和一个目标元素
     low = 0
     high = len(list) - 1
